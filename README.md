@@ -1,0 +1,3 @@
+- Hi, I’m @SadSquashy
+- I’m interested in Coding
+- I’m currently learning Python
